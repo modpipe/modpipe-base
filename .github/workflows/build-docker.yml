@@ -16,4 +16,3 @@ jobs:
       uses: VaultVulp/gp-docker-action@1.6.0
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        image-name: modpipe-base
